@@ -1,2 +1,3 @@
-hello my first git project!
-hot fix 到此一游!
+add new line.
+hello y delete test word git test word project!
+hot fix 到此一游! confilt test
